@@ -1,0 +1,21 @@
+* {
+    margin: 0%;
+}
+nav{
+    margin-bottom: 60px;
+    font-family: 'Quicksand', sans-serif;
+}
+img{
+    border-radius: 9px;
+    width: 550px;
+    height: 360px;
+}
+img:hover{
+    cursor: pointer;
+}
+body{
+    background-color: rgb(210, 252, 238);
+}
+footer{
+    background-color: cadetblue;
+}
